@@ -1,0 +1,12 @@
+.tab-button {
+  border: none 0;
+  font-family: 'Roboto';
+  color: #7b8794;
+  background-color: transparent;
+}
+
+.highlight-tab {
+  border-bottom: solid 2px #2563eb;
+  color: #2563eb;
+  font-weight: 700;
+}
